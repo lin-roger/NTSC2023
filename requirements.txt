@@ -1,0 +1,9 @@
+transformers
+accelerate
+optimum
+bitsandbytes
+guidance
+fastapi
+uvicorn[standard]
+youtube-transcript-api
+pytube
